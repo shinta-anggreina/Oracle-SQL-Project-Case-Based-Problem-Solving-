@@ -138,7 +138,7 @@ FROM TBL_DATE;
 ## 📢 How to Use This Repository
 1. Clone repo ini ke lokal:
    ```bash
-   git clone https://github.com/shineko.art/oracle-sql-project.git
+   git clone https://github.com/shinta-anggreina/Oracle-SQL-Project-Case-Based-Problem-Solving-.git
    ```
 2. Jalankan query di **Oracle SQL Developer** atau **SQL Plus**
 3. Eksperimen dengan berbagai skenario tambahan! 🚀
